@@ -1,0 +1,6 @@
+[submodule "YoloKerasFaceDetection"]
+	path = YoloKerasFaceDetection
+	url = https://github.com/dqhuy140598/head-pose-estimation
+[submodule "demo"]
+	path = demo
+	url = https://github.com/abars/YoloKerasFaceDetection
